@@ -1,0 +1,6 @@
+git+https://github.com/ai-forever/diffusers.git
+transformers
+accelerate
+torch
+PIL
+numpy
